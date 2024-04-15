@@ -1,0 +1,25 @@
+body{
+    background-color:rgb(229, 238, 51); 
+}
+nav{
+    background-color: #f6f0ef;
+}
+a{
+    position: relative;
+    left: 1000px;
+}
+h5{
+    font-family:'Times New Roman', Times, serif;
+    font-size: medium;
+}
+corousel{
+    width: 5px;
+}
+h4{
+display: inline-block; vertical-align:middle;font-family:cursive;font-style: italic;
+position: relative;left: 100px;
+}
+ul
+{
+    font-style: italic;
+}
